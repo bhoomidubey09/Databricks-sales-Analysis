@@ -163,12 +163,10 @@ Databricks-sales-Analysis/
 ├── Retail_sales_project_databricks.ipynb
 ├── dashboard.json
 ├── README.md
-└── images/
-    ├── retail-sales-dashboard-1.png
-    └── retail-sales-dashboard-2.png
+├── retail-sales-dashboard1.png
+└── retail-sales-dashboard2.png
 ```
 
-*The image filenames are used by this README. Upload your actual dashboard screenshots using these exact names. Keep `dashboard.json` if it is your exported dashboard definition.*
 
 ## 🚀 How to Run the Project
 
