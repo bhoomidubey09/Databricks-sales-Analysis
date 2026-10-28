@@ -27,11 +27,13 @@ The project also includes a retail sales dashboard that explores category revenu
 
 ### Dashboard 1 — Category Revenue & Daily Sales Trends
 
-![Retail Sales Dashboard - Category Revenue and Daily Trends](images/retail-sales-dashboard-1.png)
+<img width="1896" height="850" alt="Retail sales Dashboard1" src="https://github.com/user-attachments/assets/6e3f6eae-abda-4be5-a2b4-18e68fe4dd0c" />
+
 
 ### Dashboard 2 — Customer Analysis & Top 10 Products
 
-![Retail Sales Dashboard - Customer Analysis and Top Products](images/retail-sales-dashboard-2.png)
+<img width="1885" height="893" alt="Retail sales Dashboard2" src="https://github.com/user-attachments/assets/b7f5a6e2-9b59-441e-853e-be84c9b8ebf4" />
+
 
 ---
 
