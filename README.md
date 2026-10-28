@@ -163,8 +163,8 @@ Databricks-sales-Analysis/
 ├── Retail_sales_project_databricks.ipynb
 ├── dashboard.json
 ├── README.md
-├── retail-sales-dashboard1.png
-└── retail-sales-dashboard2.png
+├── Retail sales Dashboard1.png
+└── Retail sales Dashboard2.png
 ```
 
 
